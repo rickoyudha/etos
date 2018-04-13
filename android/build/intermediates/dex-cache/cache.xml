@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_49910c94fa830cf94a7a92b51fcc7481cbe57128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.6.0_2f18f4d5886eaaf8f422c669cf8acba71695bf6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_b406ece0a92ac43d408838a1b1cea262034ff4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\infer-annotations-4.0_31c072eb0b75203f503db2445cfeaf9e6f3eb35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\javax.inject-1_2ce6a00d5772e5ae96a018a9b28bb88e8fbe363f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_51b66aae13d0efc0bb3164db7ddf773ff3961aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_f52c19e18c13c77de243d487ddf3cf619d9749de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\okhttp-3.6.0_9b8d90ebce32569cd945a6a6fdf10f415c60191c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_9a41e3c4b5f3d03b2a3bf6f9b4025cf3d1a4af7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.3.0_86ab578c17f6bd4a7eb78a39346abe6e6de8bbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_5512fe4c3b0854953864072cbe3fc6e029aa1135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.3.0_64eebbf3bd05cefd216ed2d51efeb10c7b2b6cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DIDIK HERMANTO\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\okio-1.13.0_edb1b904a02978150edd0f2fb1604fe90b42c86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2391e8bd7a3f61e7151fdc155219485a4a35aedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.3.0_20b955e61abf6252f88decfdb239f4eb4aaff911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.49.3_d84961969039f2d3f8ff0e881fd4bfb693a3818e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\ToiletAP\react-native-keep-awake\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25b4747216a57a7164f8e39248ea3a866b856803">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\ToiletAP-react-native-keep-awake-unspecified_a0c2b48b12ebba991a797483c9d1dc40e7b50e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.3.0_605eb72e32403e50f6dd6b551cf1303f7573b6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\tools\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_96bf6bdf264410856e736bf767fcd93fa515f5df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1_ba5351dc2ea47a9137e175c8c4ab3bb5a7d3b11d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b757f085f7fc8139c7293463bc9b23ede3c60df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="F:\Ricko\ReactNativeProjects\ToiletAP\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.3.0_466608922feee18bccd2963008f0bd32a14b602e.jar" />
+    </item>
+
+</items>
